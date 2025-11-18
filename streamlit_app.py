@@ -79,6 +79,27 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://i.namu.wiki/i/jgnXQjg3NcvGEV9GBfKmpmI19JuXNzCoMF6Kdf9d0alxXkAqLFVqdhSuRFinRdhgBSTERAx7YZrS1fsHEW2VGQ.webp"],
        "videos": ["https://www.youtube.com/watch?v=KwCmesL8wbE&pp=ygUJ67CV7KCV7Z2s"]
      },
+
+
+     labels[1]: {
+       "texts": ["윤석열의", "일생을", "알아보자"],
+       "images": ["https://i.namu.wiki/i/jgnXQjg3NcvGEV9GBfKmpmI19JuXNzCoMF6Kdf9d0alxXkAqLFVqdhSuRFinRdhgBSTERAx7YZrS1fsHEW2VGQ.webp"],
+       "videos": ["https://www.youtube.com/watch?v=KwCmesL8wbE&pp=ygUJ67CV7KCV7Z2s"]
+     },
+
+
+     labels[2]: {
+       "texts": ["이명박의", "일생을", "알아보자"],
+       "images": ["https://i.namu.wiki/i/jgnXQjg3NcvGEV9GBfKmpmI19JuXNzCoMF6Kdf9d0alxXkAqLFVqdhSuRFinRdhgBSTERAx7YZrS1fsHEW2VGQ.webp"],
+       "videos": ["https://www.youtube.com/watch?v=KwCmesL8wbE&pp=ygUJ67CV7KCV7Z2s"]
+     },
+
+
+     labels[3]: {
+       "texts": ["이승의", "일생을", "알아보자"],
+       "images": ["https://i.namu.wiki/i/jgnXQjg3NcvGEV9GBfKmpmI19JuXNzCoMF6Kdf9d0alxXkAqLFVqdhSuRFinRdhgBSTERAx7YZrS1fsHEW2VGQ.webp"],
+       "videos": ["https://www.youtube.com/watch?v=KwCmesL8wbE&pp=ygUJ67CV7KCV7Z2s"]
+     },
 }
 
 # ======================
