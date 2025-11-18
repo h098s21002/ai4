@@ -83,22 +83,22 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[1]: {
        "texts": ["윤석열의", "일생을", "알아보자"],
-       "images": ["https://i.namu.wiki/i/jgnXQjg3NcvGEV9GBfKmpmI19JuXNzCoMF6Kdf9d0alxXkAqLFVqdhSuRFinRdhgBSTERAx7YZrS1fsHEW2VGQ.webp"],
-       "videos": ["https://www.youtube.com/watch?v=KwCmesL8wbE&pp=ygUJ67CV7KCV7Z2s"]
+       "images": ["https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRqnd2urySbesrQM2fKK7XLrh8GTlhmoo_r5EjxFjhzQKqB1mvOf6Kmem5a_oShO5J_Qy-bq84Wsbbfp4YI6O3WVg0c3fNrQCoLc4bfhJZ4FSHndDyazY4ACUYGM9PhYhdnqog0qORUgR4&s=19"],
+       "videos": ["https://youtu.be/hf-zvdaZ_FU?si=716cwautLQsbtLJx"]
      },
 
 
      labels[2]: {
        "texts": ["이명박의", "일생을", "알아보자"],
-       "images": ["https://i.namu.wiki/i/jgnXQjg3NcvGEV9GBfKmpmI19JuXNzCoMF6Kdf9d0alxXkAqLFVqdhSuRFinRdhgBSTERAx7YZrS1fsHEW2VGQ.webp"],
-       "videos": ["https://www.youtube.com/watch?v=KwCmesL8wbE&pp=ygUJ67CV7KCV7Z2s"]
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvxO6gS96JsoWSHYOD5Dw0YQJLTAOd2YS5jG5_bCFocbWuQ5ABKYbwAkItKM_JqOkmUe8Y2QHXafsu45ahxUnJaKpozg_Gyj-fX0TdY4j&s=10"],
+       "videos": ["https://youtu.be/67Zip4no3yU?si=U5ExBs5fDRhafPRL"]
      },
 
 
      labels[3]: {
        "texts": ["이승의", "일생을", "알아보자"],
-       "images": ["https://i.namu.wiki/i/jgnXQjg3NcvGEV9GBfKmpmI19JuXNzCoMF6Kdf9d0alxXkAqLFVqdhSuRFinRdhgBSTERAx7YZrS1fsHEW2VGQ.webp"],
-       "videos": ["https://www.youtube.com/watch?v=KwCmesL8wbE&pp=ygUJ67CV7KCV7Z2s"]
+       "images": ["https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRKX-edR8q1bu1HGBMBYaYlSEWR3hup6s1WLxNBYspUn1yL9pXPJYxmAYggjrB2Flonm2l7eaAwYer1HO6PNyvlWJLj9Dkjo3SEVVcVtYrO-UkgQgiRQWwswFzmeDZHlCTE99HyGRDFJqNN&s=19"],
+       "videos": ["https://youtu.be/gkraLxzOenk?si=ZBXrkT3hDN1bFF4W"]
      },
 }
 
